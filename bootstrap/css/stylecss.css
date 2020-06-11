@@ -528,8 +528,6 @@ li a .fa-instagram:hover{
 		padding-left: 10px;
 	}
 
-	
-
 	nav.black .logo{
 		padding-right: 30px !important;
 	}
@@ -552,6 +550,7 @@ li a .fa-instagram:hover{
 }
 
 @media (min-width: 1000px){
+
 	.img{
 		width: 50%;
 		float: left !important;
@@ -572,34 +571,34 @@ li a .fa-instagram:hover{
 	}
 
 	#conteudo{
-	padding-bottom: 40px;
+		padding-bottom: 40px;
 	}
 
 	#rodapé{
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-	height: 120px;
-	text-align: center;
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		height: 120px;
+		text-align: center;
 	}
 
 	#certificados{
-	float: both !important;
-	text-align: justify; 	
-	padding-left: 0%;
-	padding-right: 60%;
+		float: both !important;
+		text-align: justify; 	
+		padding-left: 0%;
+		padding-right: 60%;
 	}
 
 	.redes{
-	padding: 60px 0px 0px 60px; 
+		padding: 60px 0px 0px 60px; 
 	}
 
 	.minhaimg
 	{ 
-	width: 270px; 
-	height: 270px; 
-	border-radius: 50%;
-	padding-top: 0;
+		width: 270px; 
+		height: 270px; 
+		border-radius: 50%;
+		padding-top: 0;
 	}
 
 	.img{
@@ -634,9 +633,11 @@ li a .fa-instagram:hover{
 }
 
 @media (height:812px){
+
 	.projetos #conteudo{
 		padding-bottom: 328px !important;
 	}
+
 	.contato #conteudo{
 		padding-bottom: 110px !important;
 	}
@@ -651,6 +652,7 @@ li a .fa-instagram:hover{
 }
 
 @media (height:736px){
+
 	.projetos #conteudo{
 		padding-bottom: 250px !important;
 	}
@@ -665,6 +667,7 @@ li a .fa-instagram:hover{
 }
 
 @media (height:823px){
+
 	.projetos #conteudo{
 		padding-bottom: 338px !important;
 	}
@@ -697,12 +700,14 @@ li a .fa-instagram:hover{
 }
 
 @media (height:667px){
+
 	.projetos #conteudo{
 		padding-bottom: 183px !important;
 	}
 }
 
 @media (width:320px){
+
 	.logo{
 		padding-left: 80px;
 	}
@@ -716,9 +721,9 @@ li a .fa-instagram:hover{
 	}
 
 	.minhaimg{
-	width: 280px !important; 
-	height: 280px !important; 
-	border-radius: 50%;
+		width: 280px !important; 
+		height: 280px !important; 
+		border-radius: 50%;
 	}
 
 	.redes{
